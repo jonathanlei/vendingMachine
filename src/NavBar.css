@@ -1,0 +1,13 @@
+.NavBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: grey;
+  height: 2rem;
+  align-items: center;
+}
+
+/* TODO: Add active css for NavLinks */
+.NavBar .active {
+  color: red;
+}

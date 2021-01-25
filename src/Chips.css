@@ -1,0 +1,22 @@
+.Chips {
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Chips-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  height: 50%;
+
+  background-image: url("./chips.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 65%;
+  color: white;
+  align-items: center;
+}

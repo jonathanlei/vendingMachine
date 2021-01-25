@@ -1,0 +1,28 @@
+.VendingMachine {
+  background-image: url("./vending_machine_2.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  color: white;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.VendingMachine-header, .VendingMachine-links {
+  background-color: black;
+  opacity: 65%;
+  height: 300px;
+  width: 600px;
+  margin: 0 300px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+

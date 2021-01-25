@@ -1,7 +1,8 @@
 .App {
   text-align: center;
-  background-image: url("./vending_machine_background.jpg");
-  height: 700px;
-  background-size: cover;
+  height: 100%;
 }
 
+#root {
+  height: 100%;
+}
